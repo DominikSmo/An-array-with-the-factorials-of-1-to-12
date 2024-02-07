@@ -34,7 +34,7 @@ public class Factorialexercise1 {
         }
 
             System.out.println("tab: " + Arrays.toString(tab));
-            System.out.println("Array with factorials: " + Arrays.toString(factorials));  //Displaying and array with the factorial of the numbers from 1 to 12
+            System.out.println("Array with factorials: " + Arrays.toString(factorials));  //Displaying an array with the factorial of the numbers from 1 to 12
             return factorials;
         }
     }
