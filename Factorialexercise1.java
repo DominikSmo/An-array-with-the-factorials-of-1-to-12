@@ -29,7 +29,7 @@ public class Factorialexercise1 {
 
             } else {
 
-                factorials[i] = tab[i];                         // Here an index equaled 0 is filled up with appropriated value(for i = 0)
+                factorials[i] = tab[i];                         // Here an index equaled 0 is filled up with appropriated value(for i = 0). Note that the factorial of 0 and 1 is the same and equals 1
             }
         }
 
